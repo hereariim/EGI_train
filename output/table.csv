@@ -1,0 +1,20 @@
+,col 1,col 2
+0,Taile X_train,40.0
+1,Taile X_test,10.0
+2,Taile Y_train,40.0
+3,Taile Y_test,10.0
+4,Taile x_train,32.0
+5,Taile x_val,8.0
+6,Taile y_train,32.0
+7,Taile y_val,8.0
+8,Taile x_train (after data augmentation),128.0
+9,Taile x_val,8.0
+10,Taile y_train (after data augmentation),128.0
+11,Taile y_val,8.0
+12,plus petit coefficient loss de validation,0.0297761969268322
+13,Test loss,0.03469645231962204
+14,Test dice,0.3623344600200653
+15,seuil optimal,0.2
+16,Dice,0.37632372975349426
+17,Jaccard,0.604758620262146
+18,AUC score,0.9137204808107933
